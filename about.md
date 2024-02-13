@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a public history master's student at Northeastern University. I study the medieval and early modern European religion, especially the role of women on it. I also work at at two of Boston's history museums. In terms of my personal history, I am from Tennessee and am the second youngest of 9 total children. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+There is no more information.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[edwardcastlman@yahoo.com](mailto:edwardcastlman@yahoo.com)
